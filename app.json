@@ -1,0 +1,15 @@
+{
+  "name": "StudyGenie-AI",
+  "description": "AI-powered Study Mentor built using IBM watsonx Orchestrate, IBM Granite, and Retrieval-Augmented Generation (RAG).",
+  "version": "1.0.0",
+  "platform": "IBM watsonx Orchestrate",
+  "model": "IBM Granite",
+  "features": [
+    "RAG",
+    "Study Planner",
+    "Quiz Generator",
+    "Flashcards",
+    "Notes Summarization",
+    "PDF Question Answering"
+  ]
+}
